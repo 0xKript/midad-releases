@@ -1,0 +1,7 @@
+Offline text recognition (OCR) in MIDAD
+
+Tesseract.js 7.0.0 and tesseract.js-core 7.0.0 — Apache License 2.0
+  https://github.com/naptha/tesseract.js
+Tesseract OCR engine — Apache License 2.0 — https://github.com/tesseract-ocr/tesseract
+Arabic and English models (tessdata, via @tesseract.js-data) — Apache License 2.0 / MIT
+  https://github.com/tesseract-ocr/tessdata_best

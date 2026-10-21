@@ -1,0 +1,1 @@
+var e=[`https://github.com/login/device/code`,`https://github.com/login/oauth/access_token`,`https://oauth2.googleapis.com/token`];function t(t){if(!e.includes(t))throw Error(`endpoint-not-allowed`)}export{t as assertSigninEndpoint};
